@@ -8,11 +8,16 @@ The goal of the project is to understand how food consumption varies across coun
 ---
 
 ## 📊 Dataset
-- **Source:** FAO Food Balance Sheets (UN official data)
+- **Source:** Kaggle
+- **Dataset Name:** FAO Food Balance Sheets
 - **File used:** `FoodBalanceSheets_E_All_Data_NOFLAG.csv`
-- **Description:**  
-  The dataset contains country-wise food supply and consumption statistics across multiple years, covering various food items and categories.
 
+Due to file size limitations, the dataset is not included in this repository.
+
+You can download the dataset directly from Kaggle:
+🔗 https://www.kaggle.com/datasets/tcashion/fao-food-balance-sheets
+
+(After downloading, upload the CSV file manually when running the notebook in Google Colab.)
 ---
 
 ## 🛠️ Tools & Technologies
